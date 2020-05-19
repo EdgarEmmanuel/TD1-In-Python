@@ -7,7 +7,7 @@ b = int(input("saisir la valeur du nombre b : "))
 
 
 if(a>b):
-    reste=0
+    reste=2
     while(reste!=0):
         reste=a-b
         if(reste==0):
@@ -15,8 +15,8 @@ if(a>b):
         svg=reste
         a=b
         b=svg
-elif(b>a)
-    reste=0
+elif(b>a):
+    reste=6
     while(reste!=0):
         reste=b-a 
         if(reste==0):
