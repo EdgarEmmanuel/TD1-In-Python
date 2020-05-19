@@ -1,5 +1,5 @@
 
-
+#21 et 24
 a = int(input("saisir le nombre secret : "))
 
 b = int(input("allez utiisateur 2 , Devinez le nombre secret "))
